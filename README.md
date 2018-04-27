@@ -14,12 +14,13 @@ nd the important processes involved in it, and will have begun your journey as a
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Get familiar with Wi-Fi network protocols&nbsp; 
-<LI>Find open and hidden SSID's and crack Wi-Fi passwords&nbsp; 
-<LI>Perform a Man in the Middle attack&nbsp; 
-<LI>Curate a DoS attack on our victim&nbsp; 
-<LI>Scan for all nearby Bluetooth devices&nbsp; 
-<LI>Hack all Bluetooth devices </LI></UL></DIV>
+<LI>Refine and clean your text
+<LI>Extract important data from text
+<LI>Classify text into types
+<LI>Apply modern ML and DL techniques on the text 
+<LI>Work on pre-trained models 
+<LI>Important text mining processes
+<LI>Analyze text in the best and most effective way</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
